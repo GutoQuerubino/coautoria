@@ -1,0 +1,11 @@
+Screen2 As screen:
+
+    Button2 As button:
+        Fill: =RGBA(255, 0, 0, 1)
+        Height: =304
+        Text: ="Botão Guto"
+        Width: =528
+        X: =351
+        Y: =372
+        ZIndex: =1
+
