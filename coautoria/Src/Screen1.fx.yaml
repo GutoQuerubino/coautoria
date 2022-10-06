@@ -1,9 +1,11 @@
 Screen1 As screen:
 
     Button1 As button:
-        Text: ="Botão"
-        X: =640
-        Y: =596
+        Height: =108
+        Text: ="Botão Guto"
+        Width: =544
+        X: =27
+        Y: =609
         ZIndex: =1
 
     Label1 As label:
