@@ -12,3 +12,12 @@ Screen1 As screen:
         Y: =327
         ZIndex: =2
 
+    Label2 As label:
+        Height: =161
+        Size: =45
+        Text: ="Leonardo"
+        Width: =721
+        X: =340
+        Y: =92
+        ZIndex: =3
+
