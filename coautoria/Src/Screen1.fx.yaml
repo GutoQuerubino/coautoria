@@ -2,6 +2,7 @@ Screen1 As screen:
 
     Button1 As button:
         Height: =320
+        Size: =20
         Text: ="Botão Guto"
         Width: =544
         X: =27
